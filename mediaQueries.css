@@ -262,6 +262,9 @@
 .section4-content2-images{
     flex-direction:column-reverse ;
 }
+.small2{
+    margin-left: 80px;
+}
 
 .contact{
     width: 100%;
