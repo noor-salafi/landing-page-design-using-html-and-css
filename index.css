@@ -167,8 +167,6 @@ body{
 
 }
 
-
-
 .section2{
     width: 100vw;
     height: 100vh;
@@ -283,7 +281,6 @@ body{
     margin-top: 8px;
     text-align: center;
 }
-
 
 
 .small1 img{
@@ -457,7 +454,7 @@ body{
 .sec4-card1,.sec4-card2,.sec4-card3{
     width: 200px;
     height: 160px;
-    background-color: #fff;
+    background-color: rgb(222, 222, 222);
     z-index: 5;
     margin-top: -125px;
     padding: 10px;
@@ -524,7 +521,7 @@ body{
     height: 380px;
 }
 form{
-    background-color: transparent;
+    background-color: hsla(0, 0%, 100%, 0.2);;
     border: 1.5px solid white;
     border-radius: 8px;
     width: 300px;
@@ -660,7 +657,9 @@ input{
     
 }
 
+.contact-form{
 
+}
 
 
 
